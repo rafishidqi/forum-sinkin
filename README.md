@@ -39,3 +39,14 @@ serta mengedit postingan mereka.
   - Login
   - Logout
   - Register
+
+----------------------
+	Information
+----------------------
+1. Android Studio Iguana
+2. XAMPP Control Panel PHP 8.12.2
+3. Visual Studio Code
+4. Laaravel 12
+5. API PHP Native
+
+
