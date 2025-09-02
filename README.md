@@ -65,5 +65,6 @@ Android
 3. Copy your IPv4 Address
 4. Open the RetrofitClient.kt file.
 5. Change the base url with your IPv4 Address.
-6. Run with your Device.
+6. Run the project on your device.
+7. Make sure the api and the android device using the same connection.
 
