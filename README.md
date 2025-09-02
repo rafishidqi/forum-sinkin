@@ -41,7 +41,7 @@ Android (User)
     Information for Developments
 -------------------------------
 - Android Studio Iguana
-- XAMPP Control Panel PHP 8.12.2
+- XAMPP Control Panel PHP 8.2.12
 - Visual Studio Code
 - Laravel 12
 - Tailwind CSS + Vite
