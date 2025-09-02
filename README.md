@@ -70,4 +70,6 @@ Android
 8. Run the project on your device.
 9. Make sure the api and the android device using the same connection.
 
+If you're still confused, contact me on [instagram](https://www.instagram.com/sidkibertato/) or open the manual book(indonesian).
+
 Thanks
