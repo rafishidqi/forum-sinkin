@@ -60,9 +60,9 @@ Website
 6. Open the Powershell terminal on your project and write "php artisan serve".
 
 Android
-1. Clone the Android Project repo.
-2. Open CMD terminal and write "ipconfig"
-3. Copy your IPv4 Address
+1. Clone the Android Project repo, [here](https://github.com/rafishidqi/android-forum-sinkin)
+2. Open CMD terminal and write "ipconfig".
+3. Copy your IPv4 Address.
 4. Open the RetrofitClient.kt file.
 5. Change the base url with your IPv4 Address.
 6. Run the project on your device.
