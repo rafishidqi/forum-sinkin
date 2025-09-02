@@ -1,38 +1,38 @@
 # forum-sinkin
 -------------------------------
-    Aplikasi Forum Diskusi - SinkIn
+    Discussion Forum App - SinkIn
 -------------------------------
 
-Forum SinkIn adalah sebuah platform yang memungkinkan pengguna login, membuat postingan, dan berinteraksi dengan konten. Pengguna dapat mengunggah gambar dari galeri lokal, yang akan diunggah ke server dan disimpan sebagai URL di database, terintegrasi penuh dengan PHP API. Pengguna juga bisa melakukan voting (upvote/downvote), menyimpan, serta mengedit postingan mereka.
+SinkIn Forum is a platform that allows users to log in, create posts, and interact with content. Users can upload images from their local gallery, which will be uploaded to the server and stored as URLs in the database, fully integrated with the PHP API. Users can also vote (upvote/downvote), save, and edit their posts.
 
 -------------------------------
-    Fitur
+    Features
 -------------------------------
 
 Web (Administrator)
-- Melihat Jumlah User, Jumlah Postingan, Jumlah Kategori, Jumlah Laporan.
-- Melihat Data User
-- Melihat Data Postingan beserta detailnya
-- Melihat Data Laporan beserta detailnya
-- Melihat Data Kategori beserta detailnya
-- Ban Postingan
-- Delete Postingan
-- Delete Kategori
-- Edit Kategori
-- Menghapus Komentar
-- Mengelola Laporan
+- View the number of Users, Posts, Categories, and Reports.
+- View User Data
+- View Post Data with details
+- View Report Data with details
+- View Category Data with details
+- Ban Posts
+- Delete Posts
+- Delete Categories
+- Edit Categories
+- Delete Comments
+- Manage Reports
 - Login
 
 Android (User)
-- Melihat Postingan
-- Melihat Detail Postingan
+- View Posts
+- View Post Details
 - Upvote, Downvote, Comment, Save, Report Posts
-- Hapus Komentar
-- Melihat dan Mengedit Profile
-- Melihat dan Mengikuti Kategori
-- Menambah Kategori
-- Mencari Postingan
-- Menambah Postingan
+- Delete Comments
+- View and Edit Profile
+- View and Follow Categories
+- Add Categories
+- Search Posts
+- Add Posts
 - Login
 - Logout
 - Register
