@@ -38,10 +38,32 @@ Android (User)
 - Register
 
 -------------------------------
-    Information
+    Information for Developments
 -------------------------------
 - Android Studio Iguana
 - XAMPP Control Panel PHP 8.12.2
 - Visual Studio Code
 - Laravel 12
+- Tailwind CSS + Vite
 - API PHP Native
+
+-------------------------------
+    Installation and Setup Projects
+-------------------------------
+
+Website
+1. Create new folder on your device.
+2. Open the folder with Visual Studio Code.
+3. Clone this repo.
+4. Move zip folder "api-sinkin.zip" to your htdocs folder (if you use XAMPP) and extract folder.
+5. Open the CMD terminal on your project and write "npm run dev" to run vite.
+6. Open the Powershell terminal on your project and write "php artisan serve".
+
+Android
+1. Clone the Android Project repo.
+2. Open CMD terminal and write "ipconfig"
+3. Copy your IPv4 Address
+4. Open the RetrofitClient.kt file.
+5. Change the base url with your IPv4 Address.
+6. Run with your Device.
+
